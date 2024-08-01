@@ -1,4 +1,4 @@
-<img align="center" height="280" width="100%" alt="coding" src="https://i.pinimg.com/736x/6a/9d/9d/6a9d9d1ad1c80aac45914996fa4104db.jpg"> 
+<img align="center" height="275" width="100%" alt="coding" src="https://i.pinimg.com/736x/6a/9d/9d/6a9d9d1ad1c80aac45914996fa4104db.jpg"> 
 <a display="block" align="center" width="70%" font-size="60" height="150" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Mahabubul+Alam+Ishmum" alt="Typing SVG" /></a>
  
 <h1 align="center">Hi 👋, I'm Mahabubul Alam Ishmum.</h1>
@@ -14,7 +14,7 @@
 
 <a href="https://codeforces.com/profile/ishmum78">Codeforces</a> | <a href="https://leetcode.com/u/ishmum78/">Leetcode</a> | <a href="https://www.hackerrank.com/profile/ishmuma78">Hackerrank</a>
 
-<img align="right" margin-top="20" alt="coding" width="490" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+<img align="right" margin-top="20" alt="coding" width="480" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
 
 
@@ -37,8 +37,8 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
 
 
-<p><img src="https://gifdb.com/images/high/computer-system-coding-j3szfjv9fwb5at9x.webp" width="450"> 
-  <img align="right" height="350" src="https://t4.ftcdn.net/jpg/04/90/33/39/360_F_490333979_EQdf0tNa0W7MdstKjrGwnjQjoxfYP2zO.jpg" width="470"> </p>
+<p><img src="https://gifdb.com/images/high/computer-system-coding-j3szfjv9fwb5at9x.webp" width="400"> 
+  <img align="right" height="330" src="https://t4.ftcdn.net/jpg/04/90/33/39/360_F_490333979_EQdf0tNa0W7MdstKjrGwnjQjoxfYP2zO.jpg" width="450"> </p>
 <p><img width="48%" height="200" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishmum78&show_icons=true&locale=en&layout=compact" alt="ishmum78" />
 <img width="48%" height="200" align="right" src="https://github-readme-stats.vercel.app/api?username=ishmum78&show_icons=true&locale=en" alt="ishmum78" />
 </p> &nbsp; &nbsp;
