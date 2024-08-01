@@ -3,19 +3,20 @@
  
 <h1 align="center">Hi 👋, I'm Mahabubul Alam Ishmum.</h1>
 <h3 align="center">I am an Undergrade student at UIU Computer Science And Engineering.I am highly interested in Competitive programming and Machine learning & AI also.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishmum78&label=Profile%20views&color=0e75b6&style=flat" alt="ishmum78" /> </p>
+
 <h2 class="heading-element" dir="auto">Skills</h2>
 <ul>
   <li><a>Languages: C | C++ </a></li>
   <li><a>Frontend: HTML | CSS </a></li>
   <li><a>Running: JS | Python </a></li>
   
-<h2 class="heading-element" dir="auto">Problem Solving and Competitive Programming</h2>
+ <h2 class="heading-element" dir="auto">Problem Solving and Competitive Programming</h2>
 
 <a href="https://codeforces.com/profile/ishmum78">Codeforces</a> | <a href="https://leetcode.com/u/ishmum78/">Leetcode</a> | <a href="https://www.hackerrank.com/profile/ishmuma78">Hackerrank</a>
 
 <img align="right" margin-top="20" alt="coding" width="500" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishmum78&label=Profile%20views&color=0e75b6&style=flat" alt="ishmum78" /> </p>
 
 - 🌱 I’m currently learning **Javascript | Python**
 
