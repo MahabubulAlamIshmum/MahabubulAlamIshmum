@@ -1,4 +1,4 @@
-<img align="center" height="450" width="100%" alt="coding" src="https://i.pinimg.com/736x/6a/9d/9d/6a9d9d1ad1c80aac45914996fa4104db.jpg"> 
+<img align="center" height="280" width="100%" alt="coding" src="https://i.pinimg.com/736x/6a/9d/9d/6a9d9d1ad1c80aac45914996fa4104db.jpg"> 
 <a display="block" align="center" width="70%" font-size="60" height="150" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Mahabubul+Alam+Ishmum" alt="Typing SVG" /></a>
  
 <h1 align="center">Hi 👋, I'm Mahabubul Alam Ishmum.</h1>
@@ -39,8 +39,8 @@
 
 <p><img src="https://gifdb.com/images/high/computer-system-coding-j3szfjv9fwb5at9x.webp" width="450"> 
   <img align="right" height="350" src="https://t4.ftcdn.net/jpg/04/90/33/39/360_F_490333979_EQdf0tNa0W7MdstKjrGwnjQjoxfYP2zO.jpg" width="450"> </p>
-<p><img width="47%" height="200" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishmum78&show_icons=true&locale=en&layout=compact" alt="ishmum78" />
-<img width="47%" height="200" align="right" src="https://github-readme-stats.vercel.app/api?username=ishmum78&show_icons=true&locale=en" alt="ishmum78" />
+<p><img width="48%" height="200" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishmum78&show_icons=true&locale=en&layout=compact" alt="ishmum78" />
+<img width="48%" height="200" align="right" src="https://github-readme-stats.vercel.app/api?username=ishmum78&show_icons=true&locale=en" alt="ishmum78" />
 </p> &nbsp; &nbsp;
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/ishmum78/contributions?format=svg&private=true)
