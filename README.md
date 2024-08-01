@@ -31,7 +31,7 @@
 
 
 <p><img src="https://gifdb.com/images/high/computer-system-coding-j3szfjv9fwb5at9x.webp" width="400"> 
-  <img align="right" height="330" src="https://t4.ftcdn.net/jpg/04/90/33/39/360_F_490333979_EQdf0tNa0W7MdstKjrGwnjQjoxfYP2zO.jpg" width="420"> </p>
+  <img align="right" height="330" src="https://t4.ftcdn.net/jpg/04/90/33/39/360_F_490333979_EQdf0tNa0W7MdstKjrGwnjQjoxfYP2zO.jpg" width="400"> </p>
 <p><img width="48%" height="200" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishmum78&show_icons=true&locale=en&layout=compact" alt="ishmum78" />
 <img width="48%" height="200" align="right" src="https://github-readme-stats.vercel.app/api?username=ishmum78&show_icons=true&locale=en" alt="ishmum78" />
 </p> &nbsp; &nbsp;
