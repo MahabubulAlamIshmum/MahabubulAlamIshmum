@@ -14,7 +14,7 @@
 
 <a href="https://codeforces.com/profile/ishmum78">Codeforces</a> | <a href="https://leetcode.com/u/ishmum78/">Leetcode</a> | <a href="https://www.hackerrank.com/profile/ishmuma78">Hackerrank</a>
 
-<img align="right" margin-top="20" alt="coding" width="500" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+<img align="right" margin-top="20" alt="coding" width="490" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
 
 
@@ -38,7 +38,7 @@
 
 
 <p><img src="https://gifdb.com/images/high/computer-system-coding-j3szfjv9fwb5at9x.webp" width="450"> 
-  <img align="right" height="350" src="https://t4.ftcdn.net/jpg/04/90/33/39/360_F_490333979_EQdf0tNa0W7MdstKjrGwnjQjoxfYP2zO.jpg" width="450"> </p>
+  <img align="right" height="350" src="https://t4.ftcdn.net/jpg/04/90/33/39/360_F_490333979_EQdf0tNa0W7MdstKjrGwnjQjoxfYP2zO.jpg" width="470"> </p>
 <p><img width="48%" height="200" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishmum78&show_icons=true&locale=en&layout=compact" alt="ishmum78" />
 <img width="48%" height="200" align="right" src="https://github-readme-stats.vercel.app/api?username=ishmum78&show_icons=true&locale=en" alt="ishmum78" />
 </p> &nbsp; &nbsp;
