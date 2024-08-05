@@ -3,8 +3,11 @@
 <h1 align="center">Hi 👋, I'm Mahabubul Alam Ishmum.</h1>
 <h3 align="center">I am an Undergrade student at UIU Computer Science And Engineering.I am highly interested in Competitive programming and Machine learning & AI also.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishmum78&label=Profile%20views&color=0e75b6&style=flat" alt="ishmum78" /> </p>
+
 <h2 class="heading-element" dir="auto">Problem Solving and Competitive Programming</h2>
 <a href="https://codeforces.com/profile/ishmum78">Codeforces</a> | <a href="https://leetcode.com/u/ishmum78/">Leetcode</a> | <a href="https://www.hackerrank.com/profile/ishmuma78">Hackerrank</a>
+
+
 <h2 class="heading-element" dir="auto">Skills</h2>
 <ul><li><a>Languages: C | C++ </a></li><li><a>Frontend: HTML | CSS </a></li> <li><a>Future: Java </a></li>
  
@@ -33,7 +36,7 @@
 <p><img src="https://gifdb.com/images/high/computer-system-coding-j3szfjv9fwb5at9x.webp" width="450"> 
  </p>
  
-<p><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishmum78&show_icons=true&locale=en&layout=compact" alt="ishmum78" /></p>
+<p><img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishmum78&show_icons=true&locale=en&layout=compact" alt="ishmum78" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishmum78&show_icons=true&locale=en" alt="ishmum78" /></p>
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/ishmum78/contributions?format=svg&private=true)
