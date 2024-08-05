@@ -33,7 +33,7 @@
 <p><img src="https://gifdb.com/images/high/computer-system-coding-j3szfjv9fwb5at9x.webp" width="450"> 
  </p>
  
-<p><img width="48%" height="195" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishmum78&show_icons=true&locale=en&layout=compact" alt="ishmum78" /></p>
+<p><img height="175" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishmum78&show_icons=true&locale=en&layout=compact" alt="ishmum78" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishmum78&show_icons=true&locale=en" alt="ishmum78" /></p>
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/ishmum78/contributions?format=svg&private=true)
