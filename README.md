@@ -1,5 +1,5 @@
 <img align="center" height="280" width="100%" alt="coding" src="https://i.pinimg.com/736x/6a/9d/9d/6a9d9d1ad1c80aac45914996fa4104db.jpg">
-<a display="block" align="center" width="70%" font-size="60" height="150" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Mahabubul+Alam+Ishmum" alt="Typing SVG" /></a>
+<a display="block" align="center" width="70%" font-size="60" height="150" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Mahabubul+Alam+nijhum" alt="Typing SVG" /></a>
 <h1 align="center">Hi 👋, I'm Mahabubul Alam Ishmum.</h1>
 <h3 align="center">I am an Undergrade student at UIU Computer Science And Engineering.I am highly interested in Competitive programming and Machine learning & AI also.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishmum78&label=Profile%20views&color=0e75b6&style=flat" alt="ishmum78" /> </p>
