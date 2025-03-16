@@ -1,4 +1,8 @@
 <img align="center" height="280" width="100%" alt="coding" src="https://i.pinimg.com/736x/6a/9d/9d/6a9d9d1ad1c80aac45914996fa4104db.jpg">
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 <a display="block" align="center" width="70%" font-size="60" height="150" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Mahabubul+Alam+ishmum" alt="Typing SVG" /></a>
 <h1 align="center">Hi 👋, I'm Mahabubul Alam Ishmum.</h1>
 <h3 align="center">I am an Undergrade student at UIU Computer Science And Engineering.I am highly interested in Competitive programming and Machine learning & AI also.</h3>
@@ -28,6 +32,9 @@
 <a href="https://twitter.com/ishmum78" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
+<a href="https://discord.com/ishmum78" target="_blank">
+<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="27.5" alt="discord logo" />
+</a>
 <a href="https://www.facebook.com/MahabubulAlamIshmum" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
@@ -37,18 +44,17 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
-
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
 <p><img src="https://gifdb.com/images/high/computer-system-coding-j3szfjv9fwb5at9x.webp" width="450"> 
  </p>
- 
-<p><img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishmum78&show_icons=true&locale=en&layout=compact" alt="ishmum78" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishmum78&show_icons=true&locale=en" alt="ishmum78" /></p>
+
+<p><img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahabubulalamishmum&show_icons=true&locale=en&layout=compact" alt="mahabubulalamishmum"  /></p>
+<p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=mahabubulalamishmum&show_icons=true&locale=en" alt="mahabubulalamishmum" /></p>
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/ishmum78/contributions?format=svg&private=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishmum78&" alt="ishmum78" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahabubulalamishmum&" alt="mahabubulalamishmum" />
 </p>
 
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" style="max-width: 100%;">
