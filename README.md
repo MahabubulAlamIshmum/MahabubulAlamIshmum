@@ -9,7 +9,7 @@
 
 
 <h2 class="heading-element" dir="auto">Skills</h2>
-<ul><li><a>Languages: C | C++ </a></li><li><a>Frontend: HTML | CSS </a></li> <li><a>Future: Java </a></li>
+<ul><li><a>Languages: C | C++ | Java  </a></li><li><a>Frontend: HTML | CSS </a></li> <li><a>Future: Python </a></li>
  
 <img align="right" margin-top="20" alt="coding" width="490" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
@@ -22,11 +22,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/mahabubulalamishmum" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 <a href="https://twitter.com/ishmum78" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/mahabubulalamishmum" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<a [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ishmum78) 
 </a>
 <a href="https://www.facebook.com/MahabubulAlamIshmum" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
