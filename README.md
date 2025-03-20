@@ -12,19 +12,20 @@
 <a href="https://codeforces.com/profile/ishmum78">Codeforces</a> | <a href="https://leetcode.com/u/ishmum78/">Leetcode</a> | <a href="https://www.hackerrank.com/profile/ishmuma78">Hackerrank</a>
 
 
-<h2 class="heading-element" dir="auto">Skills</h2>
-<ul><li><a>Languages: C | C++ | JAVA  </a></li><li><a>Frontend: HTML | CSS </a></li> <li><a>Future: Python </a></li>
- 
-<img align="right" margin-top="20" alt="coding" width="490" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+## Skills
 
+Languages: C | C++ | JAVA  
+Frontend: HTML | CSS  
+Future: Python  
 
-- 🌱 I’m currently learning **Javascript | Python**
- 
-- 📫 How to reach me **ishmumalam595@gmail.com**
+<img align="right" alt="coding" width="490" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" style="margin-bottom: 50px;">
 
+- 🌱 I’m currently learning **Javascript | Python**  
+- 📫 How to reach me **ishmumalam595@gmail.com**  
 - ⚡ Fun fact **Take risk with delight**
+  
+## Connect with me
 
-<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/mahabubulalamishmum" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin profile link" />
@@ -43,7 +44,6 @@
 <a href="https://instagram.com/ishmum78" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram profile link" />
 </a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
