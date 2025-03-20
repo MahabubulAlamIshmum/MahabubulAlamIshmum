@@ -1,6 +1,6 @@
 <img align="center" height="200" width="100%" alt="coding" src="https://i.pinimg.com/736x/6a/9d/9d/6a9d9d1ad1c80aac45914996fa4104db.jpg">
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="170" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 <a display="block" align="center" width="70%" font-size="60" height="150" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Mahabubul+Alam+ishmum" alt="Typing SVG" /></a>
@@ -40,19 +40,24 @@
 </a>
 <a href="https://instagram.com/ishmum78" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+</a> 
+
+
+<img src="https://camo.githubusercontent.com/e2ad860f5db0900ef7a51420220056da4c8545a4cdc46af7f7411649a9c63493/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" alt="https://instagram.com/ishmum78" data-canonical-src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;">
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
-<p><img src="https://gifdb.com/images/high/computer-system-coding-j3szfjv9fwb5at9x.webp" width="450"> 
+<p><img src="https://gifdb.com/images/high/computer-system-coding-j3szfjv9fwb5at9x.webp" width="430"> 
  </p>
 
 <p><img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahabubulalamishmum&show_icons=true&locale=en&layout=compact" alt="mahabubulalamishmum"  /></p>
 <p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=mahabubulalamishmum&show_icons=true&locale=en" alt="mahabubulalamishmum" /></p>
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/ishmum78/contributions?format=svg&private=true)
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/mahabubulalamishmum/contributions?format=svg&private=true)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahabubulalamishmum&" alt="mahabubulalamishmum" />
 </p>
