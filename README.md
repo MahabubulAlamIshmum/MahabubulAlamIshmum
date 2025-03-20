@@ -41,9 +41,14 @@
 <a href="https://instagram.com/ishmum78" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a> 
+<a href="https://instagram.com/ishmum78" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram profile link" />
+</a>
+<a href="https://instagram.com/ishmum78" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram profile link" />
+</a>
 
 
-<img src="https://camo.githubusercontent.com/e2ad860f5db0900ef7a51420220056da4c8545a4cdc46af7f7411649a9c63493/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" alt="https://instagram.com/ishmum78" data-canonical-src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;">
 
 
 </p>
