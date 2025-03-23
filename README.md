@@ -2,7 +2,6 @@
 <div align="center">
   <img height="170" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
-
 <a display="block" align="center" width="70%" font-size="60" height="150" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Mahabubul+Alam+ishmum" alt="Typing SVG" /></a>
 <h1 align="center">Hi 👋, I'm Mahabubul Alam Ishmum.</h1>
 <h3 align="center">I am an Undergrade student at UIU Computer Science And Engineering.I am highly interested in Competitive programming and Machine learning & AI also.</h3>
