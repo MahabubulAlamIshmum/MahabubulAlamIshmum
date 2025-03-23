@@ -16,21 +16,19 @@ Languages: C | C++ | JAVA
 Frontend: HTML | CSS  
 Future: Python  
 
-<img align="right" alt="coding" width="450" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
-<br><br><br><br><br><br>
+<img align="center" alt="coding" width="490" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" style="margin-bottom: 50px;">
 
 - 🌱 I’m currently learning **Javascript | Python**  
 - 📫 How to reach me **ishmumalam595@gmail.com**  
 - ⚡ Fun fact **Take risk with delight**
-
-<br><br>
-
+  
 ## Connect with me
 
 <p align="left">
 <a href="https://linkedin.com/in/mahabubulalamishmum" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin profile link" />
 </a>  
+
 <a href="https://twitter.com/ishmum78" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter profile link" />
 </a>
@@ -56,10 +54,6 @@ Future: Python
 <p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=mahabubulalamishmum&show_icons=true&locale=en" alt="mahabubulalamishmum" /></p>
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/mahabubulalamishmum/contributions?format=svg&private=true)
-
-
-
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahabubulalamishmum&" alt="mahabubulalamishmum" />
 </p>
