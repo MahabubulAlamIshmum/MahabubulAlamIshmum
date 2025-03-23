@@ -18,7 +18,7 @@ Frontend: HTML | CSS
 Future: Python  
 
 <img align="right" alt="coding" width="450" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 - 🌱 I’m currently learning **Javascript | Python**  
 - 📫 How to reach me **ishmumalam595@gmail.com**  
