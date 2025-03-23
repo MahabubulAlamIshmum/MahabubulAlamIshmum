@@ -11,26 +11,27 @@
 <h2 class="heading-element" dir="auto">Problem Solving and Competitive Programming</h2>
 <a href="https://codeforces.com/profile/ishmum78">Codeforces</a> | <a href="https://leetcode.com/u/ishmum78/">Leetcode</a> | <a href="https://www.hackerrank.com/profile/ishmuma78">Hackerrank</a>
 
-
 ## Skills
 
 Languages: C | C++ | JAVA  
 Frontend: HTML | CSS  
 Future: Python  
 
-<img align="right" alt="coding" width="490" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" style="margin-bottom: 50px;">
+<img align="right" alt="coding" width="450" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+<br><br><br><br><br>
 
 - 🌱 I’m currently learning **Javascript | Python**  
 - 📫 How to reach me **ishmumalam595@gmail.com**  
 - ⚡ Fun fact **Take risk with delight**
-  
+
+<br><br>
+
 ## Connect with me
 
 <p align="left">
 <a href="https://linkedin.com/in/mahabubulalamishmum" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin profile link" />
-</a>
-  
+</a>  
 <a href="https://twitter.com/ishmum78" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter profile link" />
 </a>
