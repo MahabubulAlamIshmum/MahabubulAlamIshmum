@@ -12,9 +12,8 @@
 
 ## Skills
 
-Languages: C | C++ | JAVA  
-Frontend: HTML | CSS  
-Future: Python  
+Languages: C | C++ | JAVA | Python   
+Frontend: HTML | CSS    
 
 <img align="center" alt="coding" width="490" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" style="margin-bottom: 50px;">
 
@@ -55,7 +54,7 @@ Future: Python
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/mahabubulalamishmum/contributions?format=svg&private=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahabubulalamishmum&" alt="mahabubulalamishmum" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahabubulalamishmum&" alt="MahabubulAlamIshmum" />
 </p>
 
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" style="max-width: 100%;">
