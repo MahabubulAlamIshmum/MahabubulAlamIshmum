@@ -12,8 +12,9 @@
 
 ## Skills
 
-Languages : C | C++ | JAVA | Python   
-Frontend  : HTML | CSS    
+**Languages:** C | C++ | JAVA | Python  
+**Frontend :** HTML | CSS 
+
 
 <img align="center" alt="coding" width="490" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" style="margin-bottom: 50px;">
 
