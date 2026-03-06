@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishmum78&label=Profile%20views&color=0e75b6&style=flat" alt="ishmum78" /> </p>
 
 <h2 class="heading-element" dir="auto">Problem Solving and Competitive Programming</h2>
-<a href="https://codeforces.com/profile/ishmum78">Codeforces</a> | <a href="https://leetcode.com/u/ishmum78/">Leetcode</a> | <a href="https://www.hackerrank.com/profile/ishmuma78">Hackerrank</a>
+<a href="https://codeforces.com/profile/ishmum78">Codeforces</a> | <a href="https://leetcode.com/u/ishmum78/">Leetcode</a> | <a href="https://www.hackerrank.com/profile/mahabubulalam">Hackerrank</a>
 
 ## 🛠️ Skills
 
