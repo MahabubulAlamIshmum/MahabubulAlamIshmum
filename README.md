@@ -19,9 +19,9 @@
 
 <br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="490" />
-  &nbsp;&nbsp;&nbsp;
+<p align="">
+<!--  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="490" />
+  &nbsp;&nbsp;&nbsp; -->
   <img src="https://gifdb.com/images/high/computer-system-coding-j3szfjv9fwb5at9x.webp" width="490" />
 </p>
 
@@ -72,16 +72,17 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahabubulalamishmum&" alt="MahabubulAlamIshmum" />
 </p>
-<p><img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahabubulalamishmum&show_icons=true&locale=en&layout=compact" alt="mahabubulalamishmum"  /></p>
+<!--<p><img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahabubulalamishmum&show_icons=true&locale=en&layout=compact" alt="mahabubulalamishmum"  /></p>
 <p><img align="center"  src="https://github-readme-stats.vercel.app/api?username=mahabubulalamishmum&show_icons=true&locale=en" alt="mahabubulalamishmum" /></p>
-
+-->
 
 ---
 
 <h3 align="center"> Consistency becomes discipline! </h3>
 
-<img 
+<!-- <img 
   alt="Breakout Game by mahabubulalamishmum" 
   src="https://raw.githubusercontent.com/arpondark/arpondark/main/images/breakout-dark.svg" 
   style="visibility: visible; max-width: 100%;" 
 />
+-->
